@@ -1,0 +1,33 @@
+input {
+  overflow: auto;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;}
+}
+
+
+#abc1 {
+  height: 30px;
+  width:  850px; }
+
+  #abc1 ul li {
+    list-style: none;
+    color: white;
+    background-color: #2d2d2d;
+    float: left;
+    line-height: 30px;
+    vertical-align: middle;
+  text-align: center;  }
+
+    #abc1 .abclink {
+      text-decoration:none;
+      color: white;
+      display: block;
+      width: 150px;
+      font-size: 12px;
+      font-weight: bold;
+    font-family: "돋움", Dotum, Arial; }
+
+      #abc1 .abclink:hover {
+        color: red;
+      background-color: #4d4d4d;  }

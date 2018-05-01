@@ -1,0 +1,17 @@
+img {opacity: 0.93;}
+
+body { margin: 10px}
+#search {position: static;}
+
+#inform{position: relative;
+  top:-400px;
+  right: 60px;
+float: right;}
+
+
+#mn2banner{position: relative;
+  left:3px;
+float: right;}
+
+#ip1 {position: relative;
+top:30px;}
